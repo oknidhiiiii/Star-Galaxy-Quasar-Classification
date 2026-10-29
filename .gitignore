@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Project Reports & Build Tools (Excluded as requested)
+finaldocumentstosubmit/
+report_images/
+extracted_template_media/
+build_full_report_docx.py
+make_update.py
+template_extracted.docx
